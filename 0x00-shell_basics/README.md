@@ -4,4 +4,5 @@ bring me home
 list files
 listing files plus hidden ones
 listing files plus hidden ones plus including numbering
+script making a directory
 
