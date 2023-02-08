@@ -8,4 +8,5 @@ script making a directory
 moving files
 deleting betty file
 deleting directory in the tmp
+how to go back
 
