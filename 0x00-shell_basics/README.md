@@ -7,4 +7,5 @@ listing files plus hidden ones plus including numbering
 script making a directory
 moving files
 deleting betty file
+deleting directory in the tmp
 
