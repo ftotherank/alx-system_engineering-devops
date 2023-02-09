@@ -6,3 +6,4 @@ Creating an empty file called hello
 Write a scriptt
 a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 permissions to all
+permissions to none except user
