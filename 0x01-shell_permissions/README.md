@@ -8,3 +8,4 @@ a script that adds execute permission to the owner and the group owner, and read
 permissions to all
 permissions to none except user
 753
+setting same file permissions
