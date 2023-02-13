@@ -20,3 +20,4 @@ display all files starting with a letter
 letter replacement
 removing c and C
 reversing a word
+Write a script that displays all users and their home directories, sorted by users.
