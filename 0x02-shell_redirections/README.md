@@ -12,3 +12,4 @@ deleting files with .js
 new directory
 Create a script that displays the 10 newest files in the current directory
 sorting
+Display lines containing the pattern “root” from the file
