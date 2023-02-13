@@ -10,3 +10,4 @@ Save current state of directory
 duplicating las line of a file
 deleting files with .js
 new directory
+Create a script that displays the 10 newest files in the current directory
