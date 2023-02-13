@@ -7,3 +7,4 @@ list first 10 lines of a file
 list third line
 creating a newfile
 Save current state of directory
+duplicating las line of a file
