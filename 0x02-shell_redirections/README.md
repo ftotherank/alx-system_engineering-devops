@@ -4,3 +4,4 @@ Display the content of the file
 Viewing two files
 list last 10 lines of a file
 list first 10 lines of a file
+list third line
