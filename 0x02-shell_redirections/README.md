@@ -8,3 +8,4 @@ list third line
 creating a newfile
 Save current state of directory
 duplicating las line of a file
+deleting files with .js
