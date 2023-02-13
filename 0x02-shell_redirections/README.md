@@ -18,3 +18,4 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 display files that don't contain the word bin
 display all files starting with a letter
 letter replacement
+removing c and C
