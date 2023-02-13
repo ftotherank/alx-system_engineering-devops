@@ -19,3 +19,4 @@ display files that don't contain the word bin
 display all files starting with a letter
 letter replacement
 removing c and C
+reversing a word
